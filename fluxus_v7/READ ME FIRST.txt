@@ -1,0 +1,19 @@
+THE STEPS
+
+
+
+steps 1 : disable real time protection becuase it will delete the Executor 
+
+steps 2 : open Fluxus_V7
+
+steps 3 : let it download
+
+steps 4 : get the key 
+
+steps 5 : put the key into fluxus_V7
+
+steps 6 : enjoy 
+
+
+
+
